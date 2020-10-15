@@ -22,13 +22,14 @@ function Menu() {
                     <Anchor className="nav-item nav-link" href="/Servicos">Serviços</Anchor>
                     <Anchor className="nav-item nav-link" href="/Projetos">Projetos</Anchor>
                     <Anchor className="nav-item nav-link" href="/Sobre">Sobre</Anchor>
+                    <button className="lg-adapt nav-item btn btn-warning">
+                    Orçamento
+                    </button>
                 </div>
             </div>
-            <div>
-                <button className="btn btn-warning">
-                    Orçamento
-                </button>
-            </div>
+            
+                
+            
         </nav>
     )
 }

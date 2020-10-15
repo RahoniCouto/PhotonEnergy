@@ -21,3 +21,26 @@
     -webkit-text-stroke-width: 0.5px;
     -webkit-text-stroke-color: #000;
   }
+
+  .btn-outline-warning{
+    background-color: #fff;
+    color: #000;
+    border-color: #000;
+  }
+
+  @media(max-width: 768px){
+    .PE-position {
+      margin: 80px;
+    }
+
+    .h-carousel {
+      font-size: 2rem;
+    }
+
+    .p-carousel{
+      color: #ffc107;
+      font-size: 0.8rem;
+      -webkit-text-stroke-width: 0.5px;
+      -webkit-text-stroke-color: #000;
+    }
+  }

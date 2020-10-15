@@ -10,3 +10,13 @@
 .bg-color {
     background-color: #000;
 }
+
+.lg-adapt {
+    margin-left: 500px;
+}
+
+@media(max-width:768px){
+    .lg-adapt{
+        margin-left: 0px;
+    }
+}

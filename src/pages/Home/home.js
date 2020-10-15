@@ -1,7 +1,7 @@
 import React from 'react';
 import './home.css'
 import Route from '../../components/Route/route'
-import Carousel from '../../components/Carousel/carousel'
+import Carousel from '../../components/BannerMainCarousel/carousel'
 
 function App() {
   return (

@@ -10,14 +10,15 @@ function carousel() {
     return (
         <div>
             <div class="container PE-position">
-                <div class="row no-gutters slider-text align-items-center" data-scrollax-parent="true">
-                    <div class="col-lg-6 ftco-animate">
+                <div class="row align-items-center" data-scrollax-parent="true">
+                    <div class="col-lg-6 col-md-12">
                         <div class="mt-5">
-                        <h1 class="mb-4 h-carousel">We Build <br></br>Great Projects</h1>
-                        <p class="mb-4 p-carousel">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, 
-                        there live the blind texts. Separated they live in Bookmarksgrove.</p>
+                        <h1 class="mb-4 h-carousel">Seja Independente <br></br>Produza sua Própria Energia</h1>
+                        <p class="mb-4 p-carousel">Realizamos projetos 2D e 3D, visita técnica, instalação, 
+                        homologação para sistemas fotovotaico (energia solar), entre muitos outros.<br></br>
+                        Possuimos ampla experiência em execução e coordenação de equipe em campo</p>
                         <p>
-                            <Anchor href="#" class="btn btn-primary m-2">Our Services</Anchor> 
+                            <Anchor href="#" class="btn btn-outline-warning m-2">Nossos Serviços</Anchor> 
                             <Anchor href="#" class="btn btn-warning m-2">Pedir Orçamento</Anchor>
                         </p>
                 </div>
