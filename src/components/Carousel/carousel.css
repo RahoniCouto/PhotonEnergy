@@ -1,0 +1,23 @@
+.carouselH {
+    max-height: 700px;
+}
+
+.PE-position {
+    position: absolute;
+    z-index: 2;
+    margin: 150px;
+  }
+
+  .h-carousel {
+      font-size: 3rem;
+      color: #000;
+      -webkit-text-stroke-width: 0.5px;
+      -webkit-text-stroke-color: #ffc107;
+  }
+
+  .p-carousel{
+    color: #ffc107;
+    font-size: 1.2rem;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: #000;
+  }

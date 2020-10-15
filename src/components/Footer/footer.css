@@ -1,0 +1,67 @@
+h1,
+h2 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+ul li {
+    list-style: none;
+}
+
+li,a {
+    color: #fff;
+    padding-right: 10px;
+}
+
+.footerMain {
+    background: #000;
+    padding: 4em 0 0 0;
+    font-size: 1.2rem;
+    z-index: 0;
+    position: relative;
+}
+
+.colorInsta {
+    margin: 10px;
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    border-radius: 40px;
+    color: #fff;
+    font-size: 220px;
+    line-height: 250px;
+    vertical-align: middle;
+    background: #d6249f;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, .25);
+}
+
+.colorface {
+    margin: 10px;
+    width: 25px;
+    height: 25px;
+    background: #fff;
+    border-radius: 50px;
+    padding: 2px;
+}
+
+.colorwhats {
+    margin: 10px;
+    width: 25px;
+    height: 25px;
+    background: #34af23;
+    border-radius: 50px;
+    padding: 3px;
+}
+
+.logofinal {
+    width: 300px;
+}
+
+Link {
+    padding-left: 5px;
+}
